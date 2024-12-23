@@ -4,24 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "02c9168399d4f4ae75efa1fddf190214",
+    "content-hash": "6b36f0a0e212781c70eefa69d6055e92",
     "packages": [
         {
             "name": "phpnomad/datastore",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpnomad/datastore.git",
-                "reference": "6bf7919e0849fd4d514d3659a917df65388a6b05"
+                "reference": "814f1ba125ada1b1ec869b4b7f9de6c0f8635c70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpnomad/datastore/zipball/6bf7919e0849fd4d514d3659a917df65388a6b05",
-                "reference": "6bf7919e0849fd4d514d3659a917df65388a6b05",
+                "url": "https://api.github.com/repos/phpnomad/datastore/zipball/814f1ba125ada1b1ec869b4b7f9de6c0f8635c70",
+                "reference": "814f1ba125ada1b1ec869b4b7f9de6c0f8635c70",
                 "shasum": ""
             },
             "require-dev": {
-                "phpnomad/tests": "^0.1.0"
+                "phpnomad/tests": "^0.1.0 || ^0.3.0"
             },
             "type": "library",
             "autoload": {
@@ -42,9 +42,9 @@
             "homepage": "https://github.com/phpnomad/core",
             "support": {
                 "issues": "https://github.com/phpnomad/datastore/issues",
-                "source": "https://github.com/phpnomad/datastore/tree/1.0.0"
+                "source": "https://github.com/phpnomad/datastore/tree/2.0.0"
             },
-            "time": "2024-12-18T17:06:26+00:00"
+            "time": "2024-12-23T02:06:14+00:00"
         },
         {
             "name": "phpnomad/utils",
