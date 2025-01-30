@@ -1,6 +1,7 @@
 {
     "name": "phpnomad/registry",
     "description": "",
+    "version": "1.0.0",
     "type": "library",
     "homepage": "https://github.com/phoenix/core",
     "readme": "README.md",
