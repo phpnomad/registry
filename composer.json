@@ -27,7 +27,7 @@
     ],
     "require": {
         "phpnomad/utils": "^1.0",
-        "phpnomad/datastore": "^1.0"
+        "phpnomad/datastore": "^2.0"
     },
     "require-dev": {
         "phpnomad/tests": "^0.1.0 || ^0.3.0"
