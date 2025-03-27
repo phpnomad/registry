@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6b36f0a0e212781c70eefa69d6055e92",
+    "content-hash": "02bcee7ae1aebdff98aa909f4ff34035",
     "packages": [
         {
             "name": "phpnomad/datastore",
-            "version": "2.0.0",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpnomad/datastore.git",
-                "reference": "814f1ba125ada1b1ec869b4b7f9de6c0f8635c70"
+                "reference": "af603fb6cfc5cbf7e531083ca842a5309ee4c194"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpnomad/datastore/zipball/814f1ba125ada1b1ec869b4b7f9de6c0f8635c70",
-                "reference": "814f1ba125ada1b1ec869b4b7f9de6c0f8635c70",
+                "url": "https://api.github.com/repos/phpnomad/datastore/zipball/af603fb6cfc5cbf7e531083ca842a5309ee4c194",
+                "reference": "af603fb6cfc5cbf7e531083ca842a5309ee4c194",
                 "shasum": ""
             },
             "require-dev": {
@@ -42,9 +42,9 @@
             "homepage": "https://github.com/phpnomad/core",
             "support": {
                 "issues": "https://github.com/phpnomad/datastore/issues",
-                "source": "https://github.com/phpnomad/datastore/tree/2.0.0"
+                "source": "https://github.com/phpnomad/datastore/tree/2.0.2"
             },
-            "time": "2024-12-23T02:06:14+00:00"
+            "time": "2025-03-26T17:17:49+00:00"
         },
         {
             "name": "phpnomad/utils",
@@ -4726,5 +4726,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
